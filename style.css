@@ -1,0 +1,23 @@
+body {
+  background-color: teal;
+}
+
+.card {
+  margin: auto;
+  width: 50%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+  display: flex;
+  margin-top:5%;
+}
+
+.picture {
+  border-radius: 50%;
+  max-width: 500px;
+}
+
+.details {
+    margin-top: 20%;
+    margin-left: 5%;
+
+}
